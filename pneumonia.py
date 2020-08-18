@@ -25,7 +25,6 @@ def run_predictions(path_to_img):
     img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
     #width, height = img.shape[:2]
     img = cv2.resize(img , (200, 200))
-    #print("Shape of image is " + str(img.shape[:]))
     res = np.argmax(model.predict(img[np.newaxis, :, :]))
     if (res == 0):
         print(Fore.MAGENTA + Back.BLACK + "Positive, Bacterial")
@@ -34,4 +33,9 @@ def run_predictions(path_to_img):
     else:
         print(Fore.CYAN + Back.BLACK + "Positive, Viral")
 
-run_predictions("trial/normal1.jpeg")
+
+input_img = input("Enter image name: ")
+
+path_to_img = os.path.join("images", input_img)
+run_predictions(path_to_img)
+

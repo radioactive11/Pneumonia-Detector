@@ -11,14 +11,14 @@
 <br />
 <p align="center">
   <a href="https://github.com/radioactive11/Pneumonia-Classifier">
-    <img src="readme_files/post.png" alt="Logo" width="400" height="400">
+    <img src="media/post.png" alt="Logo" width="400" height="400">
   </a>
 
-  <h2 align="center">Automatic License Plate Recognition</h>
+  <h2 align="center">Pneumonia Detector</h>
 
   <h4 align="center">
   <p align="center">
-    Detect and scan license plate number from vehicle images
+    Classifies type of pneumonia using X-ray scans & Deep Learning
     </h4>
   </p>
 </p>
@@ -156,5 +156,5 @@ Project Link: [https://github.com/radioactive11/Pneumonia-Classifier](https://gi
 [license-url]: https://github.com/radioactive11/Pneumonia-Classifier/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/arijit--roy
-[product-screenshot1]: media/part1.gif
+[product-screenshot1]: media/sample.gif
 [product-post]: media/post.png

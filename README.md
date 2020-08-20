@@ -142,17 +142,16 @@ Project Link: [https://github.com/radioactive11/Pneumonia-Classifier](https://gi
 
 
 
-<p align="center"> Made with :blue_heart: for India
 
 [contributors-shield]: https://img.shields.io/github/contributors/radioactive11/ALPR-India.svg?style=flat-square
 [contributors-url]: https://github.com/radioactive11/Pneumonia-Classifier/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/radioactive11/ALPR-India.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/radioactive11/Pneumonia-Classifier.svg?style=flat-square
 [forks-url]: https://github.com/radioactive11/Pneumonia-Classifier/network/members
-[stars-shield]: https://img.shields.io/github/stars/radioactive11/ALPR-India.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/radioactive11/Pneumonia-Classifier.svg?style=flat-square
 [stars-url]: https://github.com/radioactive11/Pneumonia-Classifier/stargazers
-[issues-shield]: https://img.shields.io/github/issues/radioactive11/ALPR-India.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/radioactive11/Pneumonia-Classifier.svg?style=flat-square
 [issues-url]: https://github.com/radioactive11/Pneumonia-Classifier/issues
-[license-shield]: https://img.shields.io/github/license/radioactive11/ALPR-India.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/radioactive11/Pneumonia-Classifier.svg?style=flat-square
 [license-url]: https://github.com/radioactive11/Pneumonia-Classifier/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/arijit--roy

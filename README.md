@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/radioactive11/Pneumonia-Classifier">
+  <a href="https://github.com/radioactive11/Pneumonia-Detector">
     <img src="media/post.png" alt="Logo" width="400" height="400">
   </a>
 
@@ -78,7 +78,7 @@ To get a local copy up and running follow these simple example steps.
 1. Make sure you have python3 setup on your system
 2. Clone the repo
 ```sh
-git clone https://github.com/radioactive11/Pneumonia-Classifier
+git clone https://github.com/radioactive11/Pneumonia-Detector
 ```
 3. Install requirements
 ```sh
@@ -110,7 +110,7 @@ This application can be used to
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/radioactive11/Pneumonia-Classifier/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/radioactive11/Pneumonia-Detector/issues) for a list of proposed features (and known issues).
 
 
 
@@ -138,21 +138,21 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Arijit Roy - [@this_is_radioactive11](https://www.instagram.com/this_is_radioactive11/) <br />
-Project Link: [https://github.com/radioactive11/Pneumonia-Classifier](https://github.com/radioactive11/Pneumonia-Classifier)
+Project Link: [https://github.com/radioactive11/Pneumonia-Detector](https://github.com/radioactive11/Pneumonia-Detector)
 
 
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/radioactive11/ALPR-India.svg?style=flat-square
-[contributors-url]: https://github.com/radioactive11/Pneumonia-Classifier/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/radioactive11/Pneumonia-Classifier.svg?style=flat-square
-[forks-url]: https://github.com/radioactive11/Pneumonia-Classifier/network/members
-[stars-shield]: https://img.shields.io/github/stars/radioactive11/Pneumonia-Classifier.svg?style=flat-square
-[stars-url]: https://github.com/radioactive11/Pneumonia-Classifier/stargazers
-[issues-shield]: https://img.shields.io/github/issues/radioactive11/Pneumonia-Classifier.svg?style=flat-square
-[issues-url]: https://github.com/radioactive11/Pneumonia-Classifier/issues
-[license-shield]: https://img.shields.io/github/license/radioactive11/Pneumonia-Classifier.svg?style=flat-square
-[license-url]: https://github.com/radioactive11/Pneumonia-Classifier/blob/master/LICENSE.txt
+[contributors-url]: https://github.com/radioactive11/Pneumonia-Detector/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/radioactive11/Pneumonia-Detector.svg?style=flat-square
+[forks-url]: https://github.com/radioactive11/Pneumonia-Detector/network/members
+[stars-shield]: https://img.shields.io/github/stars/radioactive11/Pneumonia-Detector.svg?style=flat-square
+[stars-url]: https://github.com/radioactive11/Pneumonia-Detector/stargazers
+[issues-shield]: https://img.shields.io/github/issues/radioactive11/Pneumonia-Detector.svg?style=flat-square
+[issues-url]: https://github.com/radioactive11/Pneumonia-Detector/issues
+[license-shield]: https://img.shields.io/github/license/radioactive11/Pneumonia-Detector.svg?style=flat-square
+[license-url]: https://github.com/radioactive11/Pneumonia-Detector/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/arijit--roy
 [product-screenshot1]: media/sample.gif

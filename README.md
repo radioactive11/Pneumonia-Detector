@@ -50,7 +50,6 @@ Pneumonia Classifier uses Deep Learning to classify X-Ray chest images to classi
 
 The model was trained using [this](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) dataset from [Kaggle](https://www.kaggle.com/)
 
-I used the [OIDv4 Tool Kit](https://github.com/Francisobiagwu/OIDv4_ToolKit) to fetch the images along with thier labels.
 
 
 ## Built With
